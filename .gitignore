@@ -1,0 +1,4 @@
+build_Old/  # ignore complete directory
+*.txt       # ignore all .txt files
+file1.py    # ignore specfic file
+file2.py    # ignore this one also
